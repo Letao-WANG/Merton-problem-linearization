@@ -1,0 +1,14 @@
+{
+  "downloaded_at_utc": "2026-09-09T13:03:02.213425+00:00",
+  "requested_end": "2026-09-08",
+  "series": {
+    "SP500": {
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=SP500&cosd=2016-09-09&coed=2026-09-08",
+      "sha256": "f23ad0b1c7a84d8f54f4b6da64a58431aa30c157669d44a06cde2354dfe3341a"
+    },
+    "DGS3MO": {
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS3MO&cosd=2016-08-01&coed=2026-09-08",
+      "sha256": "92062eb385248c74b525a437cc84eae750d6343ebd91bc8f391bbee630e727d6"
+    }
+  }
+}

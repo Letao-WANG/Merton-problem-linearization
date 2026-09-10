@@ -1,0 +1,9 @@
+{
+  "source": "../sp500_sharpe/sp500_daily_and_rolling_1y.csv",
+  "source_sha256": "b11c7426c67742a7395fded36f81f2251b51f49d3dbdefc03bba863875dbf19f",
+  "sha256": "855ac74fdc4bcbb03a8994ae6724201897b6ffa79a8e758c0d9c6e25f90f745b",
+  "target": "annualized rolling 252-trading-day Sharpe; price returns excluding dividends; lagged DGS3MO risk-free proxy; asset-return standard deviation",
+  "n": 2260,
+  "date_start": "2017-09-11",
+  "date_end": "2026-09-08"
+}
